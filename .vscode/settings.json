@@ -1,0 +1,16 @@
+{
+    "editor.defaultFormatter": "rvest.vs-code-prettier-eslint",
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": "explicit"
+    },
+    "editor.formatOnSave": true,
+    "eslint.validate": [
+      "javascript",
+      "typescript"
+    ],
+    "cSpell.words": [
+      "Nulink"
+    ],
+    "codium.codeCompletion.enable": true,
+    "css.format.spaceAroundSelectorSeparator": true
+  }
